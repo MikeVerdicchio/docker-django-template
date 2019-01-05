@@ -1,5 +1,5 @@
-Toast Chest
-===========
+Docker Django Template
+======================
 
 This repository contains template files for running a Django application with a PostgreSQL database on Nginx, using Docker. These files are meant to be copied into an existing Django application, and will not run out of the box.
 
